@@ -266,9 +266,9 @@ Then, we have to install the dependencies and configure it.
 
 ---
 
-## Hadoop Ecosystem
+## Hadoop Ecosystem
 
-![hadoop ecosystem]("Hadoop Ecosystem.png")
+![hadoop ecosystem](http://blogs.saphana.com/wp-content/uploads/2015/11/hadoop3.jpg)
 
 
 ## References
